@@ -1,5 +1,8 @@
 # chessboard.js
 
+
+lots of fun. 
+
 chessboard.js is a JavaScript chessboard component. It depends on [jQuery].
 
 Please see [chessboardjs.com] for documentation and examples.
